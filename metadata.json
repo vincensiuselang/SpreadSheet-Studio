@@ -1,0 +1,5 @@
+{
+  "name": "SpreedSheet Studio",
+  "description": "Real-time interactive dashboard generator using Firebase, React, and Gemini AI. Upload spreadsheets, analyze with AI, and visualize data instantly.",
+  "requestFramePermissions": []
+}
